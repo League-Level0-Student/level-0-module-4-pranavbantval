@@ -13,5 +13,8 @@ public static void main(String[] args) {
 	else if (x>=70&&x<80) {
 		JOptionPane.showMessageDialog(null, "You passed nice job.");
 	}
+	else {
+		JOptionPane.showMessageDialog(null, "Better luck next time.");
+	}
 }
 }
